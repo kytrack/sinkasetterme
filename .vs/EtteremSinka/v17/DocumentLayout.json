@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vedran.krisztian\\source\\repos\\EtteremSinka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC36E45-A8E8-4807-962C-3D0883A10A37}|EtteremSinka\\EtteremSinka.csproj|c:\\users\\vedran.krisztian\\source\\repos\\etteremsinka\\etteremsinka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CBC36E45-A8E8-4807-962C-3D0883A10A37}|EtteremSinka\\EtteremSinka.csproj|solutionrelative:etteremsinka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vedran.krisztian\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC36E45-A8E8-4807-962C-3D0883A10A37}|EtteremSinka\\EtteremSinka.csproj|c:\\users\\vedran.krisztian\\source\\repos\\etteremsinka\\etteremsinka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC36E45-A8E8-4807-962C-3D0883A10A37}|EtteremSinka\\EtteremSinka.csproj|solutionrelative:etteremsinka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\vedran.krisztian\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs",
+              "ToolTip": "C:\\Users\\vedran.krisztian\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs",
+              "ViewState": "AgIAAM4QAAAAAAAAAAApwNsQAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:00:51.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vedran.krisztian\\source\\repos\\EtteremSinka\\EtteremSinka\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EtteremSinka\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vedran.krisztian\\source\\repos\\EtteremSinka\\EtteremSinka\\MainWindow.xaml",
+              "RelativeToolTip": "EtteremSinka\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T07:49:49.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vedran.krisztian\\source\\repos\\EtteremSinka\\EtteremSinka\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EtteremSinka\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vedran.krisztian\\source\\repos\\EtteremSinka\\EtteremSinka\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EtteremSinka\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:49:47.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
